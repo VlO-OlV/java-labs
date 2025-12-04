@@ -3,6 +3,10 @@ package lab1;
 /**
  * A utility class for processing character matrices, including addition and computing the sum of rows minimal elements.
  * This class demonstrates basic matrix operations where characters are treated as their ASCII values for arithmetic.
+ *
+ * @author Ivan Linichenko IP-31
+ * @version 1.0
+ * @since 2025-12-05
  */
 public class MatrixProcessor {
     /**
